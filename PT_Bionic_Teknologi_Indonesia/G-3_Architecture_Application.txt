@@ -1,0 +1,5 @@
+1. Microservices architecture
+2. Monolithic architecture
+3. Serverless architecture
+
+Yang terbaik menurut saya adalah Microservices architecture, karena jika satu service sedang down, maka services lainnya tidak akan terganggu, juga mudah untuk melakukan debugging ataupun menambah fitur.

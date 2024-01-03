@@ -1,0 +1,13 @@
+Cypress : software untuk automation testing
+
+Kubernetes : untuk menjalankan aplikasi berbasis container
+
+ORM : cara untuk bisa query walaupun bahasa pemrogrammannya berbeda
+
+Class : merupakan template atau blue print untuk membuat object, isinya dapat variabel dan method
+
+Function : bagian dari bahasa program yang dibuat untuk mengerjakan sesuatu
+
+DevOp : untuk menggabungkan development dan operasi seperti teknologi itu sendiri dan manusia
+
+Docker : sebuah container yang digunakan untuk menyamaratakan setiap versi agar bisa dijalankan
